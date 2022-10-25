@@ -96,7 +96,7 @@ spec:
         region: eu-west-1
         templateName: backstage-proton-plugins-tutorial-svc-template
         templateMajorVersion: '1'
-        repositoryConnectionArn: 'arn:aws:codestar-connections:eu-west-1:668204123078:connection/c176b204-5bb1-48f1-b977-5aff4fa2df9d'
+        repositoryConnectionArn: 'arn:aws:codestar-connections:eu-west-1:668204123078:connection/15136f5b-a3b4-4d1b-8d31-919b7142984a'
 
     - id: register
       name: Register
