@@ -66,8 +66,8 @@ spec:
           destination: ${{ parameters.repoUrl | parseRepoUrl }}
           http_port: 8080
           # The AWS Proton environments to use for deploying the initial service instances
-          aws_proton_dev_environment_name: "fargate-env"
-          aws_proton_prod_environment_name: "fargate-env"
+          aws_proton_dev_environment_name: "sdelbusto-fargate-poc"
+          aws_proton_prod_environment_name: "sdelbusto-fargate-poc"
           # The AWS account where the Proton service will be created
           aws_account_id: "668204123078"
           # The AWS region where the Proton service will be created
