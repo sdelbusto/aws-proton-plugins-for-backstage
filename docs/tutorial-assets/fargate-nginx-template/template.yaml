@@ -94,7 +94,7 @@ spec:
         serviceSpecPath: ./spec.yaml
         # Update the following fields to match the resources in your AWS account
         region: eu-west-1
-        templateName: scheduled-fargate-svc
+        templateName: backstage-proton-plugins-tutorial-svc-template
         templateMajorVersion: '1'
         repositoryConnectionArn: 'arn:aws:codestar-connections:eu-west-1:668204123078:connection/15136f5b-a3b4-4d1b-8d31-919b7142984a'
 
